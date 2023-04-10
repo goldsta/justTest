@@ -22,5 +22,12 @@ namespace test123
             //Wow! TestGitFork
             return;
         }
+
+        private void TestFun2()
+        {
+            //Wow! TestGitFork
+            //But It Just On Develop
+            return;
+        }
     }
 }
