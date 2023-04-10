@@ -25,29 +25,25 @@ namespace test123
 
         private void TestFun2()
         {
-            //Wow! TestGitFork
-            //But It Just On Develop
             return;
         }
 
         private void TestFun3()
         {
-            //Wow! TestGitFork
-            //But It Just On DevelopTest2
             return;
         }
 
         private void TestFun4()
         {
-            //Wow! TestGitFork
-            //But It Just On DevelopTest2
             return;
         }
-        
-                private void TestFun6()
+        private void TestFun5()
         {
-            //Wow! TestGitFork
-            //But It Just On DevelopTest
+            return;
+        }
+
+        private void TestFun6()
+        {
             return;
         }
     }
