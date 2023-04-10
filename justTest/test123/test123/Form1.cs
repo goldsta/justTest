@@ -33,7 +33,14 @@ namespace test123
         private void TestFun3()
         {
             //Wow! TestGitFork
-            //But It Just On Develop
+            //But It Just On DevelopTest2
+            return;
+        }
+
+        private void TestFun4()
+        {
+            //Wow! TestGitFork
+            //But It Just On DevelopTest2
             return;
         }
     }
